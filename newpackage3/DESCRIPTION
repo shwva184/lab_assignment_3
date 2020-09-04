@@ -1,9 +1,0 @@
-Package: newpackage3
-Type: Package
-Title: What the package does (short line)
-Version: 1.0
-Date: 2020-09-04
-Author: Suhani Ariga, Shwetha Vandagadde Chandramouly
-Maintainer: suhar073@student.liu.se, shwva184@student.liu.se
-Description: The package contains functions for euclidean, dijkstras algorithm.
-License: What license is it under?

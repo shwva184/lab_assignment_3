@@ -1,16 +1,14 @@
 \name{x}
 \alias{x}
 \docType{data}
-\title{
-%%   ~~ data name/kind ... ~~
-}
+\title{%%x}
 \description{
 %%  ~~ A concise (1-5 lines) description of the dataset. ~~
 }
 \usage{data("x")}
 \format{
   The format is:
- num 0
+ num 1
 }
 \details{
 %%  ~~ If necessary, more details than the __description__ above ~~
